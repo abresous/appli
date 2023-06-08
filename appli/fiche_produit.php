@@ -1,6 +1,6 @@
 <?php require_once 'inc/header.inc.php'; ?>
 <?php
-
+//test
 //Gestion de la SUPPRESSION :
 //debug( $_GET );
 
